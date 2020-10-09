@@ -1,1 +1,2 @@
-# nvu
+# hi
+this is a personal project
